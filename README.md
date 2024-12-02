@@ -45,7 +45,7 @@ Government of Gujarat
 
 
 ## Dependencies
-**Tracking Service-14 DAYS**
-**Information collection-14 DAYS**
-**Budget-RS.60,000**
+1.**Tracking Service-14 DAYS**
+2.**Information collection-14 DAYS**
+3.**Budget-RS.60,000**
 
