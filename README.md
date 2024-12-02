@@ -27,14 +27,25 @@ Government of Gujarat
 
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/7052c9c7-65d9-4b54-929d-599cea182671)
+
 
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/774aaba0-b3f4-40c8-b52c-293ea54e3299)
+
 
 
 ## Technology Stack
+1. **User-Friendly Front-End Design**: Ensure the platform is visually appealing and works smoothly on all devices.  
+2. **Robust Back-End Infrastructure**: Use scalable servers and databases to manage high traffic and data efficiently.  
+3. **Advanced Security Features**: Protect user data with encryption, secure login systems, and privacy compliance.  
+4. **Seamless Third-Party Integrations**: Connect with social media for convenience and secure payment systems for transactions.  
 
 
 ## Dependencies
+**Tracking Service-14 DAYS**
+**Information collection-14 DAYS**
+**Budget-RS.60,000**
 
