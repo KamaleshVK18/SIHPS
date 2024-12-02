@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:1/12/2024
+## Register Number:(24011704)
+## Name:V KAMALESH VIJAYAKUMAR
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,6 +10,7 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+
 
 
 ## Proposed Solution / Architecture Diagram
